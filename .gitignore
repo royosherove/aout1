@@ -1,3 +1,4 @@
+*.ncrunchsolution
 AOUT.Ch1.Examples.Tests/bin/Release/
 AOUT.Ch1.Examples.Tests/obj/
 AOUT.CH1.Examples/bin/
