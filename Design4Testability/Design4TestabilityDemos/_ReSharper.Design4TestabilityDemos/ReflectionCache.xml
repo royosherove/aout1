@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741833">
+  <Assembly Name="JetBrains.Annotations, Version=4.0.812.25, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="e46f2231-7ee9-44a1-a757-4f7b4d7be679" Timestamp="633477772620000000" XmlDocIndexTimestamp="633477772620000000" />
+  <Assembly Name="TypeMock, Version=4.2.4.0, Culture=neutral, PublicKeyToken=3dae460033b8d8e2" Image="9cec9e6b-918e-4c2c-ae4f-f7a5bde89c88" Timestamp="633463737780000000" XmlDocIndexTimestamp="633463737680000000" />
+  <Assembly Name="Microsoft.Practices.ObjectBuilder2, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="eaff22c9-3636-4a32-84b3-b6d0975221e8" Timestamp="633458434620000000" XmlDocIndexTimestamp="633506762898593750" />
+  <Assembly Name="Microsoft.Practices.Unity, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="d6c34a6e-5a1c-4ea8-b612-be3af65d226f" Timestamp="633458434640000000" XmlDocIndexTimestamp="633506762898906250" />
+  <Assembly Name="Castle.Core, Version=1.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc" Image="94e624a0-27ad-48b7-b2d1-a1d388920d9e" Timestamp="633259021800000000" XmlDocIndexTimestamp="633506762939843750" />
+  <Assembly Name="Castle.DynamicProxy, Version=1.1.5.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc" Image="5c214bc9-4bfc-4c03-8152-42afe7855a2f" Timestamp="633259021900000000" XmlDocIndexTimestamp="633506762940312500" />
+  <Assembly Name="Castle.DynamicProxy2, Version=2.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc" Image="a193717b-9faa-49a5-85c5-a08270a58b9a" Timestamp="633259021940000000" XmlDocIndexTimestamp="633506762940625000" />
+  <Assembly Name="Castle.MicroKernel, Version=1.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc" Image="440f3626-e0e6-43e4-bd94-be192531f405" Timestamp="633259022220000000" XmlDocIndexTimestamp="633506762941093750" />
+  <Assembly Name="Castle.Windsor, Version=1.0.3.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc" Image="e9ec4ff0-eeb6-4d95-9ad4-14475043ee18" Timestamp="633259022280000000" XmlDocIndexTimestamp="633506762941406250" />
+  <Assembly Name="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" Image="aeb6743b-7007-4db8-8df2-afbe2caca6ca" Timestamp="633300937440000000" XmlDocIndexTimestamp="633253726460000000" />
+  <Assembly Name="NMock2, Version=1.0.2313.18049, Culture=neutral" Image="8be4650c-d8a6-4d8d-91e8-e8ce3d2dbc04" Timestamp="632821572980000000" />
+  <Assembly Name="nunit.mocks, Version=2.2.8.0, Culture=neutral" Image="7cc91a84-ab7b-4485-a779-7d9b24b7217e" Timestamp="632812991360000000" />
+  <Assembly Name="TypeMock, Version=4.3.0.0, Culture=neutral, PublicKeyToken=3dae460033b8d8e2" Image="0566570c-9d91-48f0-b8c5-ca34ec9e33bf" Timestamp="633505261640000000" XmlDocIndexTimestamp="633505262720000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.0.819.19, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="b0ec480e-c74b-4930-b041-b87737b18b94" Timestamp="633486347860000000" XmlDocIndexTimestamp="633486347860000000" />
+</Assemblies>

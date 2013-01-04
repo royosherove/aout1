@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="9.75" />
+  <Class Name="AOUT.CH6.LogAN.BaseStringParser">
+    <Position X="3.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>BaseStringParser.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAGAAAACAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Field Name="stringToParse" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <Lollipop Position="1.919" />
+  </Class>
+  <Class Name="AOUT.CH6.LogAN.XMLStringParser">
+    <Position X="1" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>BaseStringParser.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AOUT.CH6.LogAN.StandardStringParser">
+    <Position X="6" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>BaseStringParser.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AOUT.CH6.LogAN.IISLogStringParser">
+    <Position X="3.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>BaseStringParser.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AOUT.CH6.LogAN.IStringParser">
+    <Position X="6.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>IStringParser.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAACAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>
