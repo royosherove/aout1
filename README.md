@@ -1,3 +1,5 @@
+This project is licensed under the Apache 2 License.
+
 1st Edition art of unit testing book code sample
 =====
 * For the 2nd edition code samples go to https://github.com/royosherove/aout2
